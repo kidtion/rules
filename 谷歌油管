@@ -1,0 +1,90 @@
+# > Youtube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+UDOMAIN-SUFFIX,googlevideo.com
+UDOMAIN-SUFFIX,youtube.com
+UDOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtu.be
+# > YoutubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+
+# (DNS Cache Pollution Protection)
+# > Google
+UDOMAIN-SUFFIX,appspot.com
+UDOMAIN-SUFFIX,blogger.com
+UDOMAIN-SUFFIX,getoutline.org
+UDOMAIN-SUFFIX,gvt0.com
+UDOMAIN-SUFFIX,gvt1.com
+UDOMAIN-SUFFIX,gvt3.com
+UDOMAIN-SUFFIX,xn--ngstr-lra8j.com
+UDOMAIN-KEYWORD,google
+UDOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,goo.gl
+
+# (Extra IP-CIRD)
+# > Google
+UIP-CIDR,35.190.247.0/24
+UIP-CIDR,64.233.160.0/19
+UIP-CIDR,66.102.0.0/20
+UIP-CIDR,66.249.80.0/20
+UIP-CIDR,72.14.192.0/18
+UIP-CIDR,74.125.0.0/16
+UIP-CIDR,108.177.8.0/21
+UIP-CIDR,172.217.0.0/16
+UIP-CIDR,173.194.0.0/16
+UIP-CIDR,209.85.128.0/17
+UIP-CIDR,216.58.192.0/19
+UIP-CIDR,216.239.32.0/19
+
+# > Other
+UDOMAIN-KEYWORD,google
+UDOMAIN-KEYWORD,gmail
+UDOMAIN-KEYWORD,youtube
+
+# > Google
+UDOMAIN-SUFFIX,abc.xyz
+UDOMAIN-SUFFIX,android.com
+UDOMAIN-SUFFIX,androidify.com
+UDOMAIN-SUFFIX,dialogflow.com
+UDOMAIN-SUFFIX,autodraw.com
+UDOMAIN-SUFFIX,capitalg.com
+UDOMAIN-SUFFIX,certificate-transparency.org
+UDOMAIN-SUFFIX,chrome.com
+UDOMAIN-SUFFIX,chromeexperiments.com
+UDOMAIN-SUFFIX,chromestatus.com
+UDOMAIN-SUFFIX,chromium.org
+UDOMAIN-SUFFIX,creativelab5.com
+UDOMAIN-SUFFIX,debug.com
+UDOMAIN-SUFFIX,deepmind.com
+UDOMAIN-SUFFIX,firebaseio.com
+UDOMAIN-SUFFIX,getmdl.io
+UDOMAIN-SUFFIX,ggpht.com
+UDOMAIN-SUFFIX,gmail.com
+UDOMAIN-SUFFIX,gmodules.com
+UDOMAIN-SUFFIX,godoc.org
+UDOMAIN-SUFFIX,golang.org
+UDOMAIN-SUFFIX,gstatic.com
+UDOMAIN-SUFFIX,gv.com
+UDOMAIN-SUFFIX,gwtproject.org
+UDOMAIN-SUFFIX,itasoftware.com
+UDOMAIN-SUFFIX,madewithcode.com
+UDOMAIN-SUFFIX,material.io
+UDOMAIN-SUFFIX,polymer-project.org
+UDOMAIN-SUFFIX,admin.recaptcha.net
+UDOMAIN-SUFFIX,recaptcha.net
+UDOMAIN-SUFFIX,shattered.io
+UDOMAIN-SUFFIX,synergyse.com
+UDOMAIN-SUFFIX,tensorflow.org
+UDOMAIN-SUFFIX,tfhub.dev
+UDOMAIN-SUFFIX,tiltbrush.com
+UDOMAIN-SUFFIX,waveprotocol.org
+UDOMAIN-SUFFIX,waymo.com
+UDOMAIN-SUFFIX,webmproject.org
+UDOMAIN-SUFFIX,webrtc.org
+UDOMAIN-SUFFIX,whatbrowser.org
+UDOMAIN-SUFFIX,widevine.com
+UDOMAIN-SUFFIX,x.company
+UDOMAIN-SUFFIX,youtu.be
+UDOMAIN-SUFFIX,yt.be
+UDOMAIN-SUFFIX,ytimg.com
